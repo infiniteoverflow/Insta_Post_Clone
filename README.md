@@ -3,4 +3,4 @@ A Clone of how the Insta post looks for a user.
 
 ---
 
-![](./App_Screenshots/app.png)
+<img src="./App_Screenshots/app.png" height=700 width=300/>
